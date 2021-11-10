@@ -1,9 +1,13 @@
 # ostep
 
+## FINISH
+
+cpu-api/p1,p2,p3
+cpu-sched-lottery
+
 ## TODO
 
 cpu-api/p4
-cpu-sched-lottery
 dist-intro
 intro
 threads-api
