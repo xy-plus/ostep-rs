@@ -4,11 +4,11 @@
 
 cpu-api/p1,p2,p3
 cpu-sched-lottery
+dist-intro
 
 ## TODO
 
 cpu-api/p4
-dist-intro
 intro
 threads-api
 threads-bugs
