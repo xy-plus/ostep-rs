@@ -5,11 +5,12 @@
 - cpu-api/p1,p2,p3
 - cpu-sched-lottery
 - dist-intro
+- intro
 
 ## TODO
 
 - cpu-api/p4
-- intro
+- intro/io
 - threads-api
 - threads-bugs
 - threads-cv
