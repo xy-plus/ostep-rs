@@ -6,12 +6,12 @@
 - cpu-sched-lottery
 - dist-intro
 - intro
+- threads-api
 
 ## TODO
 
 - cpu-api/p4
 - intro/io
-- threads-api
 - threads-bugs
 - threads-cv
 - threads-intro

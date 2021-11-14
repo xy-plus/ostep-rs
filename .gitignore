@@ -1,5 +1,4 @@
 Cargo.lock
-threads-api
 threads-bugs
 threads-cv
 threads-intro
