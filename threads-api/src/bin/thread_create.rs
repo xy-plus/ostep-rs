@@ -12,8 +12,6 @@ fn mythread(args: myarg_t) {
 
 fn main() {
     let args = myarg_t { a: 10, b: 20 };
-    let handle = thread::spawn(|| {
-        mythread(args)
-    });
+    let handle = thread::spawn(|| mythread(args));
     handle.join().unwrap();
 }

@@ -6,9 +6,7 @@ fn mythread(args: i64) -> i64 {
 }
 
 fn main() {
-    let handle = thread::spawn(|| {
-        mythread(100)
-    });
+    let handle = thread::spawn(|| mythread(100));
     let rvalue = handle.join().unwrap();
     println!("{}", rvalue);
 }
