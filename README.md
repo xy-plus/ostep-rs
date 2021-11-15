@@ -7,12 +7,12 @@
 - dist-intro
 - intro
 - threads-api
+- threads-bugs
 
 ## TODO
 
 - cpu-api/p4
 - intro/io
-- threads-bugs
 - threads-cv
 - threads-intro
 - threads-locks
