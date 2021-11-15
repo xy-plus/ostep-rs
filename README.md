@@ -8,12 +8,12 @@
 - intro
 - threads-api
 - threads-bugs
+- threads-cv
 
 ## TODO
 
 - cpu-api/p4
 - intro/io
-- threads-cv
 - threads-intro
 - threads-locks
 - threads-sema
