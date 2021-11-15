@@ -10,6 +10,7 @@
 - threads-bugs
 - threads-cv
 - threads-intro
+- vm-intro
 
 ## TODO
 
@@ -17,4 +18,3 @@
 - intro/io
 - threads-locks
 - threads-sema
-- vm-intro
