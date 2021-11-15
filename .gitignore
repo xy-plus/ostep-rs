@@ -1,5 +1,4 @@
 Cargo.lock
-threads-intro
 threads-locks
 threads-sema
 vm-intro

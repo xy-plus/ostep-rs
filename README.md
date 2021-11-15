@@ -9,12 +9,12 @@
 - threads-api
 - threads-bugs
 - threads-cv
+- threads-intro
 
 ## TODO
 
 - cpu-api/p4
 - intro/io
-- threads-intro
 - threads-locks
 - threads-sema
 - vm-intro
