@@ -10,6 +10,7 @@
 - threads-bugs
 - threads-cv
 - threads-intro
+- threads-sema
 - vm-intro
 
 ## TODO
@@ -17,4 +18,3 @@
 - cpu-api/p4
 - intro/io
 - threads-locks（编译失败）
-- threads-sema
