@@ -15,4 +15,7 @@ p3:
 	@rm ./p3.rs
 
 p4:
+	@cp src/bin/p4.rs ./
 	cargo run --bin p4
+	@mv ./p4.output ./src/bin
+	@rm ./p4.rs

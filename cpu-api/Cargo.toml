@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 user-lib = { path = "../user-lib" }
+gag = "1.0.0"

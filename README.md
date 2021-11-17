@@ -2,7 +2,7 @@
 
 ## FINISH
 
-- cpu-api/p1,p2,p3
+- cpu-api
 - cpu-sched-lottery
 - dist-intro
 - intro
@@ -15,6 +15,4 @@
 
 ## TODO
 
-- cpu-api/p4
-- intro/io
-- threads-locks（编译失败）
+- threads-locks/compare-and-swap（编译失败）
